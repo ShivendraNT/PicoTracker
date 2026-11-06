@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-06T11:35:42.463045+00:00",
+  "last_updated": "2026-11-06T18:23:12.520524+00:00",
   "leaderboard": [
     {
       "username": "jdoe2374",
@@ -138,6 +138,22 @@
       "total": 172
     },
     {
+      "username": "AkshatJairath",
+      "name": "Name not given",
+      "easy": 102,
+      "medium": 21,
+      "hard": 0,
+      "total": 165
+    },
+    {
+      "username": "Sakshamm",
+      "name": "Saksham Garg",
+      "easy": 55,
+      "medium": 36,
+      "hard": 0,
+      "total": 163
+    },
+    {
       "username": "Ananya0501",
       "name": "Ananya",
       "easy": 82,
@@ -152,22 +168,6 @@
       "medium": 31,
       "hard": 0,
       "total": 153
-    },
-    {
-      "username": "AkshatJairath",
-      "name": "Name not given",
-      "easy": 102,
-      "medium": 17,
-      "hard": 0,
-      "total": 153
-    },
-    {
-      "username": "Sakshamm",
-      "name": "Saksham Garg",
-      "easy": 54,
-      "medium": 32,
-      "hard": 0,
-      "total": 150
     },
     {
       "username": "aashvi14",
