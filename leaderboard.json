@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-08T21:57:01.036926+00:00",
+  "last_updated": "2026-11-09T01:37:17.269116+00:00",
   "leaderboard": [
     {
       "username": "jdoe2374",
@@ -154,6 +154,14 @@
       "total": 172
     },
     {
+      "username": "RandomBruh",
+      "name": "Rishabh Dev Malhotra",
+      "easy": 76,
+      "medium": 29,
+      "hard": 0,
+      "total": 163
+    },
+    {
       "username": "Ananya0501",
       "name": "Ananya",
       "easy": 82,
@@ -192,14 +200,6 @@
       "medium": 27,
       "hard": 0,
       "total": 141
-    },
-    {
-      "username": "RandomBruh",
-      "name": "Rishabh Dev Malhotra",
-      "easy": 76,
-      "medium": 21,
-      "hard": 0,
-      "total": 139
     },
     {
       "username": "jak3p3ralta",
