@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-11T17:24:33.372821+00:00",
+  "last_updated": "2026-11-11T23:39:33.505232+00:00",
   "leaderboard": [
     {
       "username": "jdoe2374",
@@ -122,6 +122,14 @@
       "total": 200
     },
     {
+      "username": "Sakshamm",
+      "name": "Saksham Garg",
+      "easy": 55,
+      "medium": 47,
+      "hard": 0,
+      "total": 196
+    },
+    {
       "username": "rakshaa",
       "name": "Nirali Kushwaha",
       "easy": 113,
@@ -144,14 +152,6 @@
       "medium": 30,
       "hard": 0,
       "total": 182
-    },
-    {
-      "username": "Sakshamm",
-      "name": "Saksham Garg",
-      "easy": 55,
-      "medium": 42,
-      "hard": 0,
-      "total": 181
     },
     {
       "username": "imightlose",
@@ -322,6 +322,14 @@
       "total": 89
     },
     {
+      "username": "Nmn007",
+      "name": "Naman",
+      "easy": 16,
+      "medium": 14,
+      "hard": 4,
+      "total": 82
+    },
+    {
       "username": "prabk55",
       "name": "Prabhakar Kumar",
       "easy": 32,
@@ -368,14 +376,6 @@
       "medium": 2,
       "hard": 1,
       "total": 62
-    },
-    {
-      "username": "Nmn007",
-      "name": "Naman",
-      "easy": 16,
-      "medium": 7,
-      "hard": 4,
-      "total": 61
     },
     {
       "username": "nineteen",
