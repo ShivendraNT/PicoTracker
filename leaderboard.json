@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-14T15:53:02.543649+00:00",
+  "last_updated": "2026-11-14T20:36:22.817712+00:00",
   "leaderboard": [
     {
       "username": "jdoe2374",
@@ -122,6 +122,14 @@
       "total": 200
     },
     {
+      "username": "Dhruv3142",
+      "name": "Dhruv Sharma",
+      "easy": 92,
+      "medium": 35,
+      "hard": 0,
+      "total": 197
+    },
+    {
       "username": "Sakshamm",
       "name": "Saksham Garg",
       "easy": 55,
@@ -144,14 +152,6 @@
       "medium": 24,
       "hard": 7,
       "total": 191
-    },
-    {
-      "username": "Dhruv3142",
-      "name": "Dhruv Sharma",
-      "easy": 92,
-      "medium": 30,
-      "hard": 0,
-      "total": 182
     },
     {
       "username": "imightlose",
